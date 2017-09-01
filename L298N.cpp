@@ -1,6 +1,6 @@
 /*
 L298N.cpp - Library for L298N motor driver
-Created by Yohendry Hurtado, 28 dec 2014
+Created by Konredus 2017
 Released into the public domain.
 */
 
